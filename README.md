@@ -1,16 +1,30 @@
 # music_apps
 
-A new Flutter project.
+Music Apps Alexander.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Supported devices.
+- Android minSdkVersion 16
+- IOS min version ios 9.0 
 
-A few resources to get you started if this is your first Flutter project:
+Suppoerted features.
+- Search song by artist.
+- Play song, and pop-up bottom navigation.
+- Pause song.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Requirements.
+1. Get this packages:
+- get_it: ^5.0.6
+- http: ^0.12.0+1
+- intl: ^0.16.1
+- logger: ^0.9.4
+- provider: ^4.3.3
+- build_runner: ^1.10.0
+- json_serializable: ^3.2.0
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Flutter version
+
+Instructions to build and deploy app, kindly visit this link: https://flutter.dev/docs/deployment/android
+
+Device used for develop this apps: google pixel 4 API 29 (emulator)
